@@ -10,6 +10,10 @@ Para a elaboração deste projeto, primeiro precisei escolher um modelo 3D no si
 
 https://github.com/BrunoLima19/Loja_Virtual/assets/70240811/8810a289-fcae-483d-999a-677951887cb6
 
+## Link da Aplicação Online
+
+https://loja-virtual-9fh7-hpvmtuwpm-brunolima19.vercel.app
+
 ## Ferramentas Utilizadas
 
 Para a elaboração deste projeto, foi utilizamos as seguintes ferramentas:
