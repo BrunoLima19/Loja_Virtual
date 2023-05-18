@@ -12,7 +12,7 @@ https://github.com/BrunoLima19/Loja_Virtual/assets/70240811/8810a289-fcae-483d-9
 
 ## Link da Aplicação Online
 
-https://loja-virtual-9fh7-hpvmtuwpm-brunolima19.vercel.app
+https://loja-virtual-b8qp-gfqddj9gw-brunolima19.vercel.app/
 
 ## Ferramentas Utilizadas
 
